@@ -1,0 +1,28 @@
+{
+    "status": 200,
+    "message": "OK",
+    "data": {
+        "brands": [
+            {
+                "id": 0,
+                "image": "",
+                "name": "Hennessy"
+            },
+            {
+                "id": 1,
+                "image": "",
+                "name": "Johnnie Walker"
+            },
+            {
+                "id": 2,
+                "image": "",
+                "name": "Remy Martin"
+            },
+            {
+                "id": 3,
+                "image": "",
+                "name": "Remy Martin"
+            }
+        ]
+    }
+}
